@@ -39,7 +39,7 @@ SirTebz.Tech is a modern, high-performance web development and custom software e
 
 ```bash
 git clone https://github.com/SirTebz/SirTebz.Tech.git
-cd omnitech-web
+cd sirtebz.tech
 npm install
 ```
 
