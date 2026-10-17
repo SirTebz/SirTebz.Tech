@@ -1,23 +1,23 @@
 export const siteConfig = {
-  name: "OmniTech",
-  legalName: "OmniTech Digital Solutions",
+  name: "SirTebz.Tech",
+  legalName: "SirTebz.Tech",
   tagline: "THINK IT. BUILD IT.",
   subTagline: "Turning ideas into digital solutions.",
   description:
     "We build modern websites, high-performance web applications, and custom software solutions that help businesses establish their presence, improve processes, and scale.",
-  url: process.env.NEXT_PUBLIC_SITE_URL || "https://omnitech.dev",
-  email: process.env.NEXT_PUBLIC_CONTACT_EMAIL || "hello@omnitech.dev",
+  url: process.env.NEXT_PUBLIC_SITE_URL || "https://sirtebz.tech",
+  email: process.env.NEXT_PUBLIC_CONTACT_EMAIL || "hello@sirtebz.tech",
   phone: process.env.NEXT_PUBLIC_CONTACT_PHONE || "+27 (0) 10 500 8492",
   location: "Johannesburg & Cape Town, South Africa",
   workingHours: "Mon - Fri: 08:30 - 17:30 (SAST)",
   social: {
-    github: "https://github.com/omnitech-digital",
-    linkedin: "https://linkedin.com/company/omnitech-digital",
-    twitter: "https://twitter.com/omnitech_dev",
+    github: "https://github.com/sirtebz-tech",
+    linkedin: "https://linkedin.com/company/sirtebz-tech",
+    twitter: "https://twitter.com/sirtebz_tech",
   },
   meta: {
-    titleTemplate: "%s | OmniTech — Think it. Build it.",
-    defaultTitle: "OmniTech | Web Development, Web Apps & Custom Software Solutions",
+    titleTemplate: "%s | SirTebz.Tech — Think it. Build it.",
+    defaultTitle: "SirTebz.Tech | Web Development, Web Apps & Custom Software Solutions",
     keywords: [
       "web development",
       "website development",

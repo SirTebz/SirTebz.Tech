@@ -133,7 +133,7 @@ function ConfirmationContent() {
 
       <div className="bg-secondary/50 rounded-lg p-4 text-center">
         <p className="text-sm text-muted-foreground">
-          This is an interactive demo by OmniTech Digital. No real booking was made.
+          This is an interactive demo by SirTebz.Tech. No real booking was made.
         </p>
       </div>
     </Container>

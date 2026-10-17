@@ -140,7 +140,7 @@ export function FeaturedWork() {
                           <span className="w-2.5 h-2.5 rounded-full bg-border" />
                         </div>
                         <span className="text-[11px] text-muted-foreground font-mono truncate max-w-[200px]">
-                          https://{project.slug}.omnitech.dev
+                          https://{project.slug}.sirtebz.tech
                         </span>
                         <Layers className="w-3.5 h-3.5 text-muted-foreground" />
                       </div>

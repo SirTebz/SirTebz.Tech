@@ -51,7 +51,6 @@ export function Navbar() {
             </div>
             <span className="font-sans font-extrabold tracking-tight">
               {siteConfig.name}
-              <span className="text-muted-foreground font-light text-xs ml-1.5 font-mono">.dev</span>
             </span>
           </Link>
 

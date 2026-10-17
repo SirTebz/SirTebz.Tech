@@ -1,9 +1,9 @@
-# OmniTech — Production Web Development Agency
+# SirTebz.Tech — Production Web Development Agency
 
 > **THINK IT. BUILD IT.**  
 > Turning ideas into digital solutions.
 
-OmniTech is a modern, high-performance web development and custom software engineering studio website built with Next.js (App Router), TypeScript, Tailwind CSS, Framer Motion, and shadcn/ui principles.
+SirTebz.Tech is a modern, high-performance web development and custom software engineering studio website built with Next.js (App Router), TypeScript, Tailwind CSS, Framer Motion, and shadcn/ui principles.
 
 ---
 
@@ -38,8 +38,8 @@ OmniTech is a modern, high-performance web development and custom software engin
 ### 1. Clone & Install Dependencies
 
 ```bash
-git clone https://github.com/omnitech-digital/omnitech-web.git
-cd omnitech-web
+git clone https://github.com/sirtebz-tech/sirtebz-tech-web.git
+cd sirtebz-tech-web
 npm install
 ```
 
@@ -53,11 +53,11 @@ cp .env.example .env.local
 
 | Variable | Description | Default / Example |
 |---|---|---|
-| `NEXT_PUBLIC_SITE_URL` | Canonical website domain | `https://omnitech.dev` |
-| `NEXT_PUBLIC_CONTACT_EMAIL` | Display contact email | `hello@omnitech.dev` |
+| `NEXT_PUBLIC_SITE_URL` | Canonical website domain | `https://sirtebz.tech` |
+| `NEXT_PUBLIC_CONTACT_EMAIL` | Display contact email | `hello@sirtebz.tech` |
 | `NEXT_PUBLIC_CONTACT_PHONE` | Display phone number | `+27 (0) 10 500 8492` |
 | `RESEND_API_KEY` | *(Optional)* Resend API Key for sending emails | `re_...` |
-| `CONTACT_RECEIVER_EMAIL` | Destination mailbox for inquiries | `hello@omnitech.dev` |
+| `CONTACT_RECEIVER_EMAIL` | Destination mailbox for inquiries | `hello@sirtebz.tech` |
 
 > **Note**: If `RESEND_API_KEY` is not provided, the contact API will process inquiries gracefully in development mode and log them to the console without throwing errors.
 
@@ -126,4 +126,4 @@ src/
 
 ## 📄 License
 
-Proprietary © OmniTech Digital Solutions. All rights reserved.
+Proprietary © SirTebz.Tech. All rights reserved.

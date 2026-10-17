@@ -115,7 +115,7 @@ export function DemoNavbar() {
             })}
           </nav>
 
-          {/* Right: Telemetry pill, Role switcher & OmniTech Link */}
+          {/* Right: Telemetry pill, Role switcher & SirTebz.Tech Link */}
           <div className="flex items-center gap-2.5">
             {/* Active Members badge */}
             <div className="hidden sm:inline-flex items-center gap-1.5 rounded-full border border-border bg-secondary/60 px-2.5 py-1 text-xs font-mono">
@@ -161,7 +161,7 @@ export function DemoNavbar() {
               )}
             </div>
 
-            {/* Back to OmniTech Link */}
+            {/* Back to SirTebz.Tech Link */}
             <Link
               href="/work/community-dashboard"
               className="inline-flex items-center gap-1.5 rounded-lg border border-border/80 bg-background px-3 py-1.5 text-xs font-mono text-muted-foreground hover:bg-secondary hover:text-foreground transition-all shadow-2xs"

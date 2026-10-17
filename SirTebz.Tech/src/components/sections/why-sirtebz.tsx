@@ -33,7 +33,7 @@ const principles = [
   },
 ];
 
-export function WhyOmniTech() {
+export function WhySirTebz() {
   return (
     <section className="py-24 sm:py-32 bg-neutral-950 text-neutral-100 relative overflow-hidden">
       {/* Background Accent */}

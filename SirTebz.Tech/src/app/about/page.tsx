@@ -16,7 +16,7 @@ import {
 export const metadata: Metadata = {
   title: "About Us — Philosophy & Engineering Approach",
   description:
-    "Learn about OmniTech's philosophy, engineering approach, and commitment to building purposeful, high-performance software.",
+    "Learn about SirTebz.Tech's philosophy, engineering approach, and commitment to building purposeful, high-performance software.",
 };
 
 export default function AboutPage() {
@@ -26,9 +26,9 @@ export default function AboutPage() {
       <section className="py-12 sm:py-20 bg-background border-b border-border">
         <Container size="default">
           <SectionHeading
-            eyebrow="ABOUT OMNITECH"
+            eyebrow="ABOUT SIRTEBZ.TECH"
             title="Technology should make things simpler."
-            subtitle="OmniTech is a technology-focused development studio dedicated to turning ideas into reliable, high-performance digital products."
+            subtitle="SirTebz.Tech is a technology-focused development studio dedicated to turning ideas into reliable, high-performance digital products."
           />
         </Container>
       </section>
@@ -42,7 +42,7 @@ export default function AboutPage() {
                 Our Philosophy
               </h2>
               <p>
-                In an era overloaded with unnecessary complexity, excessive dependencies, and brittle software, OmniTech takes a deliberate, disciplined engineering approach. We believe software should be fast, accessible, secure, and straightforward to maintain.
+                In an era overloaded with unnecessary complexity, excessive dependencies, and brittle software, SirTebz.Tech takes a deliberate, disciplined engineering approach. We believe software should be fast, accessible, secure, and straightforward to maintain.
               </p>
               <p>
                 Whether partnering with early-stage founders to launch their minimum viable product or helping established businesses automate bottlenecks, our focus remains singular: build practical solutions that deliver demonstrable commercial and operational value.

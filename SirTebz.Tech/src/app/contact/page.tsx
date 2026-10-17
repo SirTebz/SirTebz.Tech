@@ -9,7 +9,7 @@ import { GithubIcon, LinkedinIcon, TwitterIcon } from "@/components/ui/social-ic
 export const metadata: Metadata = {
   title: "Contact & Start a Project",
   description:
-    "Get in touch with OmniTech to discuss your website, web application, or custom software project.",
+    "Get in touch with SirTebz.Tech to discuss your website, web application, or custom software project.",
 };
 
 export default function ContactPage() {

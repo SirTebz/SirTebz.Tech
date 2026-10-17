@@ -11,7 +11,7 @@ import { GithubIcon } from "@/components/ui/social-icons";
 export const metadata: Metadata = {
   title: "Selected Work & Case Studies",
   description:
-    "Explore case studies, full-stack applications, and digital platforms built by OmniTech.",
+    "Explore case studies, full-stack applications, and digital platforms built by SirTebz.Tech.",
 };
 
 export default function WorkPage() {
@@ -48,7 +48,7 @@ export default function WorkPage() {
                         <span className="w-2 h-2 rounded-full bg-border" />
                       </div>
                       <span className="truncate max-w-[180px]">
-                        {project.slug}.omnitech.dev
+                        {project.slug}.sirtebz.tech
                       </span>
                       <Layers className="w-3.5 h-3.5" />
                     </div>

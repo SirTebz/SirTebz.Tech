@@ -30,7 +30,7 @@ export async function POST(request: Request) {
     // 3. Provider-Agnostic Email Dispatch
     // Check if provider credentials (e.g. Resend, Sendgrid, SMTP) are present
     const resendApiKey = process.env.RESEND_API_KEY;
-    const recipientEmail = process.env.CONTACT_RECEIVER_EMAIL || "hello@omnitech.dev";
+    const recipientEmail = process.env.CONTACT_RECEIVER_EMAIL || "hello@sirtebz.tech";
 
     if (resendApiKey) {
       try {
@@ -42,10 +42,10 @@ export async function POST(request: Request) {
             "Content-Type": "application/json",
           },
           body: JSON.stringify({
-            from: process.env.EMAIL_FROM || "OmniTech Contact <inquiries@omnitech.dev>",
+            from: process.env.EMAIL_FROM || "SirTebz.Tech Contact <inquiries@sirtebz.tech>",
             to: recipientEmail,
             reply_to: data.email,
-            subject: `[OmniTech Project Inquiry] - ${data.projectType} from ${data.name}`,
+            subject: `[SirTebz.Tech Project Inquiry] - ${data.projectType} from ${data.name}`,
             text: `
 Name: ${data.name}
 Email: ${data.email}
@@ -68,7 +68,7 @@ ${data.message}
     } else {
       // In development or when credentials are not yet supplied, log the payload safely
       console.log("------------------------------------------");
-      console.log("[OmniTech DEV Contact Submission]");
+      console.log("[SirTebz.Tech DEV Contact Submission]");
       console.log(`From: ${data.name} <${data.email}>`);
       console.log(`Company: ${data.company || "None"}`);
       console.log(`Type: ${data.projectType} | Budget: ${data.budgetRange || "Flexible"}`);

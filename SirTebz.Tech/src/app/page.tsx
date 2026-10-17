@@ -4,7 +4,7 @@ import { ServicesSection } from "@/components/sections/services-section";
 import { ProcessSection } from "@/components/sections/process-section";
 import { FeaturedWork } from "@/components/sections/featured-work";
 import { TechnologySection } from "@/components/sections/technology-section";
-import { WhyOmniTech } from "@/components/sections/why-omnitech";
+import { WhySirTebz } from "@/components/sections/why-sirtebz";
 import { CTASection } from "@/components/sections/cta-section";
 
 export default function HomePage() {
@@ -16,7 +16,7 @@ export default function HomePage() {
       <ProcessSection />
       <FeaturedWork />
       <TechnologySection />
-      <WhyOmniTech />
+      <WhySirTebz />
       <CTASection />
     </>
   );

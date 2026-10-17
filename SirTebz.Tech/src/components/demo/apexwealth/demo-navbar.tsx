@@ -58,7 +58,7 @@ export function DemoNavbar() {
           <span className="px-2 py-0.5 rounded text-[10px] font-bold bg-primary text-primary-foreground">DEMO</span>
           <Link href="/work/personal-finance-tracker" className="flex items-center text-sm font-medium text-muted-foreground hover:text-foreground transition-colors">
             <ArrowLeft className="w-4 h-4 mr-1" />
-            Back to OmniTech
+            Back to SirTebz.Tech
           </Link>
         </div>
 
@@ -95,7 +95,7 @@ export function DemoNavbar() {
               </div>
               <Link href="/work/personal-finance-tracker" className="flex items-center text-sm font-medium text-muted-foreground">
                 <ArrowLeft className="w-4 h-4 mr-1" />
-                Back to OmniTech
+                Back to SirTebz.Tech
               </Link>
             </div>
           </nav>

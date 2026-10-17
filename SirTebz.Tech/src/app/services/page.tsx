@@ -19,7 +19,7 @@ import {
 export const metadata: Metadata = {
   title: "Services & Capabilities",
   description:
-    "Explore OmniTech's comprehensive software and web development services: Modern Websites, Web Applications, Custom Software, Maintenance, UI/UX, and Technical Consulting.",
+    "Explore SirTebz.Tech's comprehensive software and web development services: Modern Websites, Web Applications, Custom Software, Maintenance, UI/UX, and Technical Consulting.",
 };
 
 const iconMap: Record<string, React.ReactNode> = {

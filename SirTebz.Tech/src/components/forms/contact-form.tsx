@@ -77,7 +77,7 @@ export function ContactForm() {
         </div>
         <h3 className="text-2xl font-bold text-foreground">Message received.</h3>
         <p className="text-sm text-muted-foreground max-w-md mx-auto leading-relaxed">
-          Thank you for reaching out to OmniTech. We have received your project details and will review them shortly. You can expect a response within 24 business hours.
+          Thank you for reaching out to SirTebz.Tech. We have received your project details and will review them shortly. You can expect a response within 24 business hours.
         </p>
         <div className="pt-4">
           <Button

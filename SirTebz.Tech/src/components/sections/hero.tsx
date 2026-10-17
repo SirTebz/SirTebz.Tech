@@ -109,7 +109,7 @@ export function Hero() {
                     <div className="w-3 h-3 rounded-full bg-red-500/80" />
                     <div className="w-3 h-3 rounded-full bg-yellow-500/80" />
                     <div className="w-3 h-3 rounded-full bg-green-500/80" />
-                    <span className="ml-2 text-foreground font-medium">omnitech.engine.ts</span>
+                    <span className="ml-2 text-foreground font-medium">sirtebz.engine.ts</span>
                   </div>
                   <div className="flex items-center gap-1 text-[10px] bg-secondary px-2 py-0.5 rounded text-foreground font-semibold">
                     <Terminal className="w-3 h-3" />
@@ -124,7 +124,7 @@ export function Hero() {
                     <span className="text-muted-foreground">const</span>{" "}
                     <span className="text-foreground font-bold">project</span> ={" "}
                     <span className="text-muted-foreground">await</span>{" "}
-                    OmniTech.<span className="font-semibold">build</span>({`{`}
+                    SirTebz.<span className="font-semibold">build</span>({`{`}
                   </p>
                   <p className="pl-4">
                     vision: <span className="text-muted-foreground">&quot;Scale business online&quot;</span>,

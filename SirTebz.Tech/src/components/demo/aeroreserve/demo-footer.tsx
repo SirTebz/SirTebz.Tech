@@ -14,11 +14,11 @@ export function DemoFooter() {
           </div>
           
           <div className="text-sm text-muted-foreground text-center">
-            This is an interactive demo built by <Link href="/" className="text-foreground hover:text-sky-500 transition-colors font-medium">OmniTech Digital</Link>.
+            This is an interactive demo built by <Link href="/" className="text-foreground hover:text-sky-500 transition-colors font-medium">SirTebz.Tech</Link>.
           </div>
           
           <div className="text-sm text-muted-foreground">
-            &copy; {currentYear} OmniTech Digital
+            &copy; {currentYear} SirTebz.Tech
           </div>
         </div>
       </div>

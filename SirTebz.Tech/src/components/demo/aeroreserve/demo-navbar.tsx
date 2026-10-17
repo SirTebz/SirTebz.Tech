@@ -50,7 +50,7 @@ export function DemoNavbar() {
               Demo
             </span>
             <Button variant="outline" size="sm" href="/work/airline-reservation-system">
-              &larr; Back to OmniTech
+              &larr; Back to SirTebz.Tech
             </Button>
           </div>
 
@@ -95,7 +95,7 @@ export function DemoNavbar() {
             ))}
             <div className="mt-4 px-3">
               <Button variant="outline" size="sm" href="/work/airline-reservation-system" className="w-full justify-center">
-                &larr; Back to OmniTech
+                &larr; Back to SirTebz.Tech
               </Button>
             </div>
           </div>

@@ -3,7 +3,7 @@ import { DemoNavbar } from "@/components/demo/apexwealth/demo-navbar";
 import { DemoFooter } from "@/components/demo/apexwealth/demo-footer";
 
 export const metadata: Metadata = {
-  title: "ApexWealth Financial Intelligence | OmniTech Demo",
+  title: "ApexWealth Financial Intelligence | SirTebz.Tech Demo",
   description: "Next-generation personal finance tracking and wealth management dashboard.",
 };
 

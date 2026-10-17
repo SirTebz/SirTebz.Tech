@@ -26,7 +26,7 @@ export function DemoFooter() {
         </div>
 
         <div className="mt-8 pt-8 border-t border-border flex flex-col md:flex-row items-center justify-between text-xs text-muted-foreground">
-          <p>© {new Date().getFullYear()} ApexWealth Demo. A concept by <Link href="/" className="hover:text-emerald-500 transition-colors underline underline-offset-4">OmniTech</Link>.</p>
+          <p>© {new Date().getFullYear()} ApexWealth Demo. A concept by <Link href="/" className="hover:text-emerald-500 transition-colors underline underline-offset-4">SirTebz.Tech</Link>.</p>
           <p className="mt-2 md:mt-0">All data shown is simulated mock data.</p>
         </div>
       </div>

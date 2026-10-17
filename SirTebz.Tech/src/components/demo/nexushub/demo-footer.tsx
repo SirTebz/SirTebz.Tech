@@ -34,7 +34,7 @@ export function DemoFooter() {
                 href="/work"
                 className="font-medium text-foreground hover:text-violet-500 underline underline-offset-4 decoration-border transition-colors"
               >
-                OmniTech Digital
+                SirTebz.Tech
               </Link>
             </span>
 

@@ -3,7 +3,7 @@ import { DemoNavbar } from "@/components/demo/nexushub/demo-navbar";
 import { DemoFooter } from "@/components/demo/nexushub/demo-footer";
 
 export const metadata: Metadata = {
-  title: "NexusHub Community Engine | OmniTech Demo",
+  title: "NexusHub Community Engine | SirTebz.Tech Demo",
   description:
     "Interactive cohort community platform with multi-channel code teardowns, interactive snippets, live events calendar, and audit controls.",
 };
